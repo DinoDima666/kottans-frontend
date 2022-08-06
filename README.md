@@ -67,4 +67,25 @@
 
 ![html](screenshots/html-css-intro/html.png)
 ![week2](screenshots/html-css-intro/css.png)
+</details>
+
+---
+
+# Responsive Web Design
+
+Загалом для мене як для новачка це була дуже обширна тема і , хоч я і зрозумів основи і принципи роботи з адаптивним дизайном, не можу сказати що готовий на 100% застосовувати це на практиці і думаю що буду далеко не один раз повертатись до матеріалів цих курсів. 
+
+<details>
+<summary>Flexbox froggy+Grid garden screnshots</summary>
+
+## Flexbox froggy
+
+![Flexbox froggy](/screenshots/responsive-web/froggy.png)
+
+## Grid garden
+
+![Grid garden](/screenshots/responsive-web/garden.png)
+
+</details>
+
 
